@@ -34,7 +34,7 @@ INSTALLED_APPS = [
     #Third party libraries
     'rest_framework',
     
-    'product'
+    'backend.product'
     
     
 ]
